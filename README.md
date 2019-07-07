@@ -1,7 +1,4 @@
 # Ionic Import Contacts Demo
-
-# Developing
-
 ## Initial setup
     
     sudo npm install -g ionic cordova (if you don't already have ionic)
