@@ -1,7 +1,5 @@
 # Ionic Import Contacts Demo
 
-Just a place to save a demo of how to import contacts into an ionic application on an iOS device. Check out the blog post at http://www.austinknight.net
-
 # Developing
 
 ## Initial setup
